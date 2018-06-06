@@ -18,4 +18,4 @@ A console application that simulates the function of an Automated Teller Machine
 Written with Visual Studio Community 2017.
 
 ## Change Log
-06-05-2018 5:44pm - Initial version.
+06-06-2018 12:29pm - Initial version.
